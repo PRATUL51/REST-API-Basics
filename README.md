@@ -1,5 +1,5 @@
 # REST-API-Basics
-Basic CRUD Operations using RESTFul Web Services and Spring Framework
+Basic CRUD Operations using RESTFul Web Services and Spring boot
 
 Contains all the required files with all the packages defined separately....
 
